@@ -1,4 +1,4 @@
-<h1 align="center"> PyMongo </h1>
+<h1 align="center"> Heart Disease Prediction</h1>
 
 ### Used Tools
  - [Flask🤖](#Flask-)
